@@ -1,6 +1,6 @@
 {
   "ingress": {
-    "enabled": true
+    "enabled": false
   },
   "image": {
     "tag": "1.27.2-alpine"
