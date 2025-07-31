@@ -1,2 +1,5 @@
 ingress:
-  enabled: false
+  enabled: true
+
+
+valueFiles: ["./values-dev.yaml"]
