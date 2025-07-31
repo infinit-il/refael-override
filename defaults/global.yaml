@@ -1,5 +1,6 @@
 ingress:
   enabled: true
 
-
-valueFiles: ["./values-dev.yaml"]
+valueFiles:
+  - ./values-dev.yaml
+  - tst2/values.yaml
